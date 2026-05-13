@@ -7,22 +7,22 @@ This project focuses on analyzing Walmart retail sales data to uncover sales tre
 
 ## 📊 Visual Analysis & Dashboards
 
-### 📈 Sales Trends & Distribution
-Identifying growth patterns and how sales are distributed across the timeline and different store segments.
+### 📈 Sales Trends & Performance
+Identifying growth patterns and how sales are distributed across the timeline.
 
 | Monthly Sales Trends | Store-wise Sales Distribution |
 |---|---|
-| ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) | ![Store Sales Distribution](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) |
+| ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) | ![Store Sales Distribution](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%205.png) |
 
 ### 🔍 Market Factors & Weekly Analysis
-Analyzing how external factors like CPI and Unemployment correlate with sales, and observing weekly fluctuations.
+Analyzing how external factors correlate with sales and observing weekly fluctuations.
 
 | Correlation Heatmap | Weekly Sales Analysis |
 |---|---|
-| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png) | ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) |
+| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) | ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) |
 
-> **Analysis Highlight:** The chart below specifically illustrates the significant impact of holiday periods on total revenue compared to non-holiday weeks.
-> ![Holiday Impact](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%205.png)
+> **Analysis Highlight:** The chart below illustrates the significant impact of holidays on total revenue.
+> ![Holiday Impact](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png)
 
 ---
 
@@ -41,7 +41,7 @@ Retail businesses generate large volumes of sales data, but identifying meaningf
 ## 💡 Key Findings
 * **Seasonal Peaks:** Sales show clear spikes during holiday periods compared to regular business weeks.
 * **Store Variation:** Significant performance gaps exist between Store IDs, suggesting specific stores have better local market capture.
-* **Economic Indicators:** Factors like CPI and Fuel Prices show a measurable correlation with shifting consumer spending habits.
+* **Economic Indicators:** Factors like CPI and Fuel Prices show a measurable correlation with consumer spending habits.
 
 ## 🚀 Business Recommendations
 * **Inventory Management:** Increase stock levels 2-3 weeks prior to identified seasonal peak months.
