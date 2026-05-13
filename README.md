@@ -10,19 +10,19 @@ This project focuses on analyzing Walmart retail sales data to uncover sales tre
 ### 📈 Sales Trends & Performance
 Identifying growth patterns and how sales are distributed across the timeline.
 
-| Monthly Sales Trends | Store-wise Sales Distribution |
+| Weekly Sales Analysis | Monthly Sales Trends |
 |---|---|
-| ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) | ![Store Sales Distribution](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%205.png) |
+| ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) | ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) |
 
-### 🔍 Market Factors & Weekly Analysis
-Analyzing how external factors correlate with sales and observing weekly fluctuations.
+### 🔍 Market Factors & Store Analysis
+Analyzing how external factors correlate with sales and observing store-specific behavior.
 
-| Correlation Heatmap | Weekly Sales Analysis |
+| Correlation Heatmap | Store-wise Sales Distribution |
 |---|---|
-| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) | ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) |
+| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) | ![Store Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png) |
 
-> **Analysis Highlight:** The chart below illustrates the significant impact of holidays on total revenue.
-> ![Holiday Impact](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png)
+> **Analysis Highlight:** The chart below illustrates the significant impact of holidays on total revenue (Holiday vs. Non-Holiday).
+> ![Holiday Impact](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%205.png)
 
 ---
 
