@@ -7,21 +7,21 @@ This project focuses on analyzing Walmart retail sales data to uncover sales tre
 
 ## 📊 Visual Analysis & Dashboards
 
-### 📈 Sales Trends & Performance
-Below are the key visualizations generated using Matplotlib and Seaborn to identify growth patterns and store efficiency.
+### 📈 Sales Trends & Distribution
+Identifying growth patterns and how sales are distributed across the timeline and different store segments.
 
-| Monthly Sales Trends | Weekly Sales Distribution |
+| Monthly Sales Trends | Store-wise Sales Distribution |
 |---|---|
-| ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) | ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) |
+| ![Monthly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart1.png) | ![Store Sales Distribution](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) |
 
-### 🔍 Market Factors & Store Comparison
-Analyzing how external factors like CPI and Unemployment correlate with sales across different store IDs.
+### 🔍 Market Factors & Weekly Analysis
+Analyzing how external factors like CPI and Unemployment correlate with sales, and observing weekly fluctuations.
 
-| Correlation Heatmap | Store Performance Comparison |
+| Correlation Heatmap | Weekly Sales Analysis |
 |---|---|
-| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png) | ![Store Performance](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%204.png) |
+| ![Heatmap](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%203.png) | ![Weekly Sales](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart2.png) |
 
-> **Analysis Highlight:** The chart below shows the specific impact of holidays on total revenue.
+> **Analysis Highlight:** The chart below specifically illustrates the significant impact of holiday periods on total revenue compared to non-holiday weeks.
 > ![Holiday Impact](https://raw.githubusercontent.com/ThotakuraJayanth/Retail-Sales-and-Market-Analysis/main/Chart%205.png)
 
 ---
